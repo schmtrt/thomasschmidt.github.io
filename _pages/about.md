@@ -14,5 +14,5 @@ I am a Research Associate at the [AImotion](https://www.thi.de/forschung/aimotio
 
 **Education**
 - M.Sc., Logistics & Digitalization [OTH-AW](https://www.oth-aw.de/), 2024
-- B.A., Business Administration [HSAnsbach](https://www.hs-ansbach.de/startseite/), 2021
+- B.A., Business Administration [HS Ansbach](https://www.hs-ansbach.de/startseite/), 2021
 

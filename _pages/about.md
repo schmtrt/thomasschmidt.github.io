@@ -10,9 +10,9 @@ redirect_from:
 
 I am a Research Associate at the [AImotion](https://www.thi.de/forschung/aimotion/) institute at [THI](https://www.thi.de/). The primary focus of my research is on the topic of AI-based optimization.
 
+
+
 **Education**
 - M.Sc., Logistics & Digitalization [OTH-AW](https://www.oth-aw.de/), 2024
 - B.A., Business Administration [HSAnsbach](https://www.hs-ansbach.de/startseite/), 2021
-  
 
-#![Editing a markdown file for a talk](/images/editing-talk.png)
